@@ -2,7 +2,7 @@
 
 ### How to run build docker image from Dockerfile in this repo ?
 
-- Create your project using the desired tecnology
+- Create your project using the desired technology
 - Copy the appropriate **Dockerfile** in the project's directory
 - Build the image
   > [!NOTE]  
